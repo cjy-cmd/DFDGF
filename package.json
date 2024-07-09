@@ -3,7 +3,7 @@
 	"author": {
 		"name": "cao jingye",
 		"email": "2632301451@qq.com",
-		"url": " git@github.com:cjy-cmd/DFDGF.git"
+		"url": " https://github.com/cjy-cmd/DFDGF.git"
 						},
 	"dependencies": {
 		"express": "^4.14.0"
