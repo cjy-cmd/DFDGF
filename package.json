@@ -3,7 +3,7 @@
 	"author": {
    		 "name": "曹静烨",
     		"email": "2632301451@qq.com",
-    		"url": " "https://github.com/cjy-cmd/DFDGF/tree/main-1""
+    		"url": " "https://github.com/cjy-cmd/DFDGF/tree/main-1"
 	"dependencies": {
 		"express": "^4.14.0"
 	},
