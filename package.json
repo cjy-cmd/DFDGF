@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Jane Doe",
+	"author": {
+		"name": "cao jingye",
+		"email": "2632301451@qq.com",
+		"url": " https://github.com"
+						},
 	"dependencies": {
 		"express": "^4.14.0"
 	},
