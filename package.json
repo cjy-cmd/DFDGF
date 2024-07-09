@@ -3,7 +3,8 @@
 	"author": {
    		 "name": "曹静烨",
     		"email": "2632301451@qq.com",
-    		"url": " https://github.com/cjy-cmd"
+    		"url": " https://github.com/cjy-cmd/DFDGF/edit/main-1/package.json"
+		 }
 	"dependencies": {
 		"express": "^4.14.0"
 	},
